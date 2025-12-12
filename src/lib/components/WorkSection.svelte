@@ -1,62 +1,65 @@
 <script lang="ts">
   const projects = [
     {
-      client: "Red Bull",
-      desc: "A global platform built to Scale, Evolve, and Perform.",
-      bg: "bg-[#000c2d]",
-      img: "", // Placeholder logic handled in template
-      dark: true
-    },
-    {
-      client: "Volvo",
-      desc: "Redefining how people experience insurance.",
-      bg: "bg-gray-200",
-      img: "https://images.unsplash.com/photo-1556742049-0cfed4f7a07d?auto=format&fit=crop&q=80&w=800",
-      dark: false
-    },
-    {
-      client: "The Organics",
-      desc: "Translating a refreshing identity into a bold platform.",
-      bg: "bg-[#8da356]",
-      img: "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=800",
-      dark: false
-    },
-    {
-      client: "Isar Aerospace",
-      desc: "Launching a brand journey into orbit.",
+      client: "Artisan Beverage Co.",
+      desc: "Successfully positioned craft beverage company for strategic acquisition by regional distributor.",
       bg: "bg-black",
-      img: "",
+      img: "/generated/image-craft-brewery-production-facility-with-s-1765564303508-0.webp",
       dark: true
     },
     {
-      client: "REWE",
-      desc: "Digital Convenience in your Pocket.",
-      bg: "bg-[#f0f0f0]",
-      img: "https://images.unsplash.com/photo-1512428559087-560fa5ce7d87?auto=format&fit=crop&q=80&w=800",
-      dark: false,
-      full: true // Making REWE full width to align last two items
-    },
-    {
-      client: "Alpha Tauri",
-      desc: "Designing the interface of wearable intelligence.",
-      bg: "bg-[#e0e0e0]",
-      img: "https://images.unsplash.com/photo-1551650975-87deedd944c3?auto=format&fit=crop&q=80&w=800",
+      client: "Heritage Foods Group",
+      desc: "Navigated complex family succession through strategic sale to private equity.",
+      bg: "bg-gray-200",
+      img: "/generated/image-modern-food-processing-facility-with-wor-1765564305994-1.webp",
       dark: false
     },
     {
-      client: "Zalando",
-      desc: "Designing the Zalando E-Commerce Operating System.",
-      bg: "bg-[#d8c5f0]",
-      img: "https://images.unsplash.com/photo-1555421689-49263376da7a?auto=format&fit=crop&q=80&w=800",
+      client: "Organic Valley Processors",
+      desc: "Maximized valuation in competitive auction process with multiple strategic buyers.",
+      bg: "bg-gray-100",
+      img: "/generated/image-organic-farm-with-fresh-vegetables-and-g-1765564308325-2.webp",
+      dark: false
+    },
+    {
+      client: "Premium Protein Partners",
+      desc: "Structured innovative earn-out agreement securing optimal terms for sellers.",
+      bg: "bg-[#1a1a1a]",
+      img: "/generated/image-protein-processing-plant-with-modern-ind-1765564311007-3.webp",
+      dark: true
+    },
+    {
+      client: "Midwest Grain Cooperative",
+      desc: "Facilitated merger creating leading regional agribusiness platform.",
+      bg: "bg-[#f0f0f0]",
+      img: "/generated/image-wide-view-of-grain-silos-and-agricultura-1765564313438-4.webp",
+      dark: false,
+      full: true
+    },
+    {
+      client: "Specialty Ingredients Inc.",
+      desc: "Connected niche food ingredient manufacturer with international strategic buyer.",
+      bg: "bg-gray-100",
+      img: "/generated/image-food-ingredients-laboratory-with-scienti-1765564316008-5.webp",
+      dark: false
+    },
+    {
+      client: "Farm Fresh Distribution",
+      desc: "Advised on transformational acquisition expanding market reach and capabilities.",
+      bg: "bg-gray-200",
+      img: "/generated/image-modern-food-processing-facility-with-wor-1765564305994-1.webp",
       dark: false
     }
   ];
 </script>
 
 <section class="px-6 md:px-12 py-24 bg-white">
+  <div class="mb-4">
+    <p class="text-xs uppercase tracking-wider text-gray-400">Select Transactions</p>
+  </div>
   <div class="max-w-3xl mb-16">
     <h2 class="text-2xl md:text-3xl font-medium leading-tight">
-      <span class="font-bold">We orchestrate strategy, design, and technology</span> to create digital experiences that connect with millions and give you the edge that sets you apart.
+      <span class="font-bold">We connect food and agribusiness owners with the right buyers</span> through deep industry expertise, proven transaction experience, and relationships that unlock maximum value.
     </h2>
   </div>
 

@@ -4,30 +4,30 @@
   const steps = [
     {
       id: "discover",
-      title: "Discover Novel Opportunities",
-      text: "The right problem is the one worth solving. We quickly uncover actionable opportunities through data and business insights, ensuring that every discovery is grounded in what matters most for your business and your users.",
-      tags: ["Business & Market Research", "Data Driven Insights", "UX Audits", "Customer Journey Mapping", "Brand Perception Analysis", "Technical Assessment"],
+      title: "Assess & Position Your Business",
+      text: "We begin by understanding your business inside and out. Through comprehensive financial analysis, market positioning, and operational assessment, we identify your unique value drivers and prepare a compelling story that resonates with strategic buyers.",
+      tags: ["Business Valuation", "Financial Analysis", "Market Positioning", "Competitive Assessment", "Growth Story Development", "Quality of Earnings"],
       graphic: "lines"
     },
     {
       id: "envision",
-      title: "Envision Innovative Strategies",
-      text: "Great strategies don't just come from ideas—they come from clear, actionable plans. We create pragmatic roadmaps that balance ambition with feasibility, focusing on what will drive immediate and long-term impact for both business and users.",
-      tags: ["CX & Product Strategy", "Vision & Roadmapping", "Value Proposition Design", "Northstar Metric Framework", "Brand Strategy & Positioning", "Technical Solution Design"],
+      title: "Identify & Engage Strategic Buyers",
+      text: "Leveraging our deep industry relationships and market intelligence, we identify the most qualified buyers for your business. Our targeted approach ensures confidentiality while maximizing competitive tension to drive optimal valuations.",
+      tags: ["Buyer Identification", "Confidential Marketing", "Information Memorandum", "Management Presentations", "Competitive Process", "Strategic Positioning"],
       graphic: "curve"
     },
     {
       id: "build",
-      title: "Build Engaging Touchpoints",
-      text: "We turn strategy into action—fast and efficiently. Whether designing intuitive interfaces, visual identities, or building scalable platforms, we focus on building holistic experiences that are both joyful and effective.",
-      tags: ["UX & UI Design", "Information Architecture", "App & Web Design", "Design Systems", "Content Strategy", "Agile Software Engineering"],
+      title: "Negotiate & Structure the Deal",
+      text: "We advocate fiercely on your behalf throughout negotiations. From initial indications of interest through letter of intent and final purchase agreement, we ensure terms protect your interests and maximize transaction value.",
+      tags: ["Term Sheet Negotiation", "Deal Structure", "Purchase Agreement", "Earn-out Design", "Risk Mitigation", "Tax Optimization"],
       graphic: "circle-top"
     },
     {
       id: "elevate",
-      title: "Elevate Delivery Capabilities",
-      text: "We make sure teams can deliver better outcomes, faster. By evolving collaborative workflows, upskilling teams, and implementing the right tools, we help you scale with confidence and consistency.",
-      tags: ["AI Consulting", "QA & Delivery", "Process Optimization", "Performance Analytics", "Continuous Improvement", "Change Management"],
+      title: "Execute Due Diligence & Close",
+      text: "We guide you through the complexities of due diligence, coordinating with legal, accounting, and other advisors to keep the process on track. Our experience ensures smooth execution from signed agreement to successful closing.",
+      tags: ["Due Diligence Management", "Issue Resolution", "Closing Coordination", "Integration Planning", "Documentation Review", "Post-Close Support"],
       graphic: "circle-waves"
     }
   ];
@@ -63,7 +63,7 @@
   });
 </script>
 
-<section class="bg-[#1a1a40] text-white py-24 px-6 md:px-12 relative" bind:this={sectionRef}>
+<section class="bg-[#1a1a1a] text-white py-24 px-6 md:px-12 relative" bind:this={sectionRef}>
   <div class="max-w-screen-2xl mx-auto flex flex-col md:flex-row gap-12">
     
     <!-- Sticky Navigation -->
@@ -71,7 +71,7 @@
       <div class="space-y-8">
         {#each steps as step, i}
           <div class="transition-opacity duration-500 {i === activeStep ? 'opacity-100' : 'opacity-30'}">
-            <p class="text-xl md:text-2xl font-light mb-1">People work with us to</p>
+            <p class="text-xl md:text-2xl font-light mb-1">We help you</p>
             <h2 class="text-2xl md:text-3xl font-bold">{step.title}</h2>
           </div>
         {/each}

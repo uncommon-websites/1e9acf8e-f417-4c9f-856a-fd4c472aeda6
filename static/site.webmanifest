@@ -1,6 +1,7 @@
 {
-	"name": "unc",
-	"short_name": "unc",
+	"name": "Westerra Capital",
+	"short_name": "Westerra",
+	"description": "Food & Agribusiness M&A Advisory",
 	"icons": [
 		{
 			"src": "/web-app-manifest-192x192.png",

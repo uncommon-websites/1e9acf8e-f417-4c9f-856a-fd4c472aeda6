@@ -1,19 +1,19 @@
 <script lang="ts">
   const cards = [
     {
-      title: "We're Not Just a Vendor...",
-      subtitle: "We're Your Partner In Crime.",
-      image: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=800"
+      title: "We're Not Just Advisors...",
+      subtitle: "We're Your Trusted Partners.",
+      image: "/generated/image-professional-business-meeting-with-execu-1765563982899-0.webp"
     },
     {
-      title: "We Don't Just Follow Trends...",
-      subtitle: "We Shape New Territories.",
-      image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=800"
+      title: "We Don't Just Know Finance...",
+      subtitle: "We Know Food & Agribusiness.",
+      image: "/generated/image-agricultural-landscape-with-modern-farmi-1765563985699-1.webp"
     },
     {
-      title: "We Don't Play By The Book...",
-      subtitle: "We Write It Together.",
-      image: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800"
+      title: "We Don't Just Close Deals...",
+      subtitle: "We Maximize Your Legacy.",
+      image: "/generated/image-business-handshake-between-executives-in-1765563988233-2.webp"
     }
   ];
 </script>
@@ -21,7 +21,7 @@
 <section class="py-24 px-6 md:px-12 bg-white">
   <div class="max-w-2xl mb-16">
     <p class="text-xl md:text-2xl leading-relaxed text-gray-800">
-      Collaboration isn't just a buzzword—it's how we roll. We're not here to hand off some cookie-cutter deliverable and disappear; we're in it with you, from day one.
+      Your exit is one of the most important decisions you'll ever make. We're not here to push a quick transaction—we're here to understand your goals, protect your interests, and deliver outcomes that honor what you've built.
     </p>
   </div>
 

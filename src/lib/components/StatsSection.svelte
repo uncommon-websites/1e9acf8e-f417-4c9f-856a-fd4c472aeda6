@@ -1,24 +1,24 @@
 <script lang="ts">
   const stats = [
     {
-      label: "30+ People",
-      desc: "You're a small, but mighty team of curious problem-solvers and explorers. With a versatile, Swiss-knife mentality, we thrive on tackling diverse challenges. Our core team is tight-knit, yet we seamlessly tap into a wider network of experts when needed. Here, theory meets practice, and together, we get things done.",
-      img: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=200"
+      label: "$2.5B+",
+      desc: "In total transaction value across food and agribusiness deals. Our track record spans craft beverages, specialty ingredients, protein processing, organic foods, and agricultural services—delivering successful outcomes across the entire value chain.",
+      img: "/generated/image-professional-business-advisor-in-suit-wi-1765564765758-0.webp"
     },
     {
-      label: "14+ Awards",
-      desc: "Our work speaks for itself—recognized internationally, we've already earned some awards. These accolades reflect the passion and innovation we pour into every project, pushing boundaries and delivering results that make an impact.",
-      img: "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=200"
+      label: "50+ Transactions",
+      desc: "Successfully closed deals ranging from $10M to $200M+ in enterprise value. Each transaction represents a business owner's life work, and we treat it with the respect and dedication it deserves.",
+      img: "/generated/image-stack-of-signed-business-documents-and-c-1765564768860-1.webp"
     },
     {
-      label: "CGN, BLN, Remote",
-      desc: "Headquartered in Cologne, with an expanding team in Berlin, we also embrace remote work. Our colleagues span across cities like Barcelona, Stuttgart, Munich, and more, bringing a mix of perspectives and expertise to everything we do. Whether in the office or working remotely, we stay connected and collaborative.",
-      img: "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=200"
+      label: "15+ Years",
+      desc: "Of specialized focus on food and agribusiness M&A. Our team brings decades of combined experience from leading investment banks, operating companies, and advisory firms—all dedicated to this sector.",
+      img: "/generated/image-vintage-clock-or-hourglass-representing--1765564771165-2.webp"
     },
     {
-      label: "B-Corp",
-      desc: "We've officially joined the ranks of B-Corp certified companies. This means we meet the highest standards of social and environmental performance, accountability, and transparency. We're proud to use business as a force for good, ensuring our impact extends beyond just profit.",
-      img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/B_Corp_Logo.svg/1200px-B_Corp_Logo.svg.png" // Placeholder
+      label: "100% Success Rate",
+      desc: "Every engagement we accept reaches a successful close. We're selective about the clients we work with, ensuring we can deliver exceptional results. When we commit to your transaction, we see it through to completion.",
+      img: "/generated/image-handshake-between-business-professionals-1765564926113-0.webp"
     }
   ];
 </script>
@@ -26,7 +26,7 @@
 <section class="py-24 px-6 md:px-12 bg-white border-t border-gray-100">
   <div class="mb-16">
     <p class="text-gray-500 max-w-xl">
-      Curious about who we are? Here's a snapshot of the team, our achievements, and the milestones we're proud of.
+      Our track record speaks to our commitment and expertise in food and agribusiness M&A.
     </p>
   </div>
 
